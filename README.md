@@ -1,39 +1,7 @@
 # An Improved BCA
 
-This template should help get you started developing with Vue 3 in Vite.
+I led a comprehensive redesign of Brooklyn College Academy's website, transforming it from a basic Google Sites platform into a modern, user-centric digital experience built with Vue.js. Leveraging Vue's reactive framework, I created a dynamic single-page application that significantly improves upon the original website's static structure and navigation issues. The original site suffered from information gaps and poor information architecture, making it difficult for students, parents, and faculty to access crucial school information. My Vue.js implementation focuses on delivering a seamless user experience through responsive components, efficient state management, and optimized routing. I reimagined the site's layout to prioritize frequently accessed content while ensuring comprehensive coverage of school information previously missing from the platform. The result is a more efficient, accessible website that better serves the school community's needs, demonstrating both technical proficiency in modern web development and strong user experience design principles.
 
-## Recommended IDE Setup
+Original Website: https://sites.google.com/brooklyncollegeacademy.com/bca/home
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+I hope to someday let this design and build become a reality !
