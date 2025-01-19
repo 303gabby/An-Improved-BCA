@@ -5,7 +5,9 @@
 <template>
   <main>
   <h1>Brooklyn College Academy High School</h1>
-  <img src="@/assets/campus.png" alt="picture of Brooklyn College's campus">
+  <div id = 'please'>
+  <img src="@/assets/campus.png" alt="picture of Brooklyn College's campus" width="1267" height="421">
+  </div>
 <br>
   <h2>Brooklyn College Academy is a small comprehensive 9th-12th 
     grade middle-college high school established in 1986 by the New York City
